@@ -2,7 +2,7 @@
 
 # output
 
-![image](https://user-images.githubusercontent.com/104633827/230903730-2bc8bd8a-5790-4474-99db-2b0cf676d27e.png)
+![Screenshot_2023-04-10-12-12-00-52_11975c136a6f99eaf946e0957fe1db11](https://user-images.githubusercontent.com/104633827/230903837-5bfb7f41-8d10-4516-bfa0-09d42854d0e0.jpg)
 
 ![Screenshot_2023-04-10-12-12-03-84_11975c136a6f99eaf946e0957fe1db11](https://user-images.githubusercontent.com/104633827/230903740-1c6bb65d-62aa-41cd-9f76-5ab38ae774d0.jpg)
 
